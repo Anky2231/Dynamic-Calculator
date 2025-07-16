@@ -1,0 +1,17 @@
+<style>
+  input[type="text"] {
+    font-size: 20px;
+    padding: 10px;
+    text-align: right;
+  }
+
+  table {
+    margin: auto;
+    border-spacing: 10px;
+  }
+
+  input[type="button"] {
+    font-size: 20px;
+    padding: 10px 20px;
+  }
+</style>
